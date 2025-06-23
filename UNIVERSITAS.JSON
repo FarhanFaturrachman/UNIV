@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "judul": "Universitas Indonesia",
+    "foto": "https://www.pngkey.com/png/full/406-4061740_makara-ui-png-logo-universitas-indonesia.png",
+    "deskripsi": "Universitas Indonesia (UI) adalah salah satu perguruan tinggi negeri tertua dan paling prestisius di Indonesia. Didirikan pada tahun 1849, UI memiliki kampus utama di Depok dan Salemba Jakarta. UI unggul dalam bidang kedokteran, teknik, ekonomi, serta riset dan inovasi, dan memiliki jaringan alumni serta kolaborasi internasional yang luas.",
+    "rating": 4.9
+  },
+  {
+    "id": 2,
+    "judul": "Institut Teknologi Bandung",
+    "foto": "https://upload.wikimedia.org/wikipedia/id/9/95/Logo_Institut_Teknologi_Bandung.png",
+    "deskripsi": "Institut Teknologi Bandung (ITB), berdiri sejak 1920, adalah universitas teknik dan sains top di Indonesia. Berlokasi di Bandung, ITB dikenal karena jurusan teknik, sains, dan seni rupa, serta alumninya yang banyak menjadi tokoh nasional di berbagai bidang.",
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "judul": "Universitas Gadjah Mada",
+    "foto": "https://lpkm.psikologi.ugm.ac.id/wp-content/uploads/2016/05/cropped-logo-ugm.png",
+    "deskripsi": "Universitas Gadjah Mada (UGM), didirikan pada 1949 di Yogyakarta, adalah universitas riset terkemuka di Indonesia. Dengan lebih dari 18 fakultas, UGM mengusung pendidikan multidisipliner dan memiliki pengaruh besar dalam kebijakan nasional dan pembangunan daerah.",
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "judul": "Institut Pertanian Bogor",
+    "foto": "https://satriadata.kemdikbud.go.id/wp-content/uploads/2020/08/Logo-IPB-baru.png",
+    "deskripsi": "Institut Pertanian Bogor (IPB) adalah universitas negeri unggulan di bidang pertanian dan ilmu kehidupan, berdiri sejak 1963. Terletak di Bogor, IPB dikenal karena riset bioteknologi, lingkungan, dan ketahanan pangan.",
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "judul": "Universitas Airlangga",
+    "foto": "https://unair.ac.id/wp-content/uploads/2023/11/Logo-Branding-UNAIR-biru.png",
+    "deskripsi": "Universitas Airlangga (UNAIR) berada di Surabaya dan fokus pada bidang kesehatan, hukum, bisnis, serta ilmu sosial. UNAIR aktif dalam penelitian, pengabdian masyarakat, dan memiliki kolaborasi internasional yang kuat.",
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "judul": "Universitas Padjadjaran",
+    "foto": "https://www.unpad.ac.id/wp-content/uploads/2018/04/logo-unpad1.png",
+    "deskripsi": "Universitas Padjadjaran (UNPAD), mulai berdiri sejak 1957, berlokasi di Bandung dan Jatinangor. UNPAD unggul dalam bidang hukum, ekonomi, komunikasi, kedokteran, dan seni, serta dikenal aktif dalam riset dan inovasi masyarakat.",
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "judul": "Universitas Diponegoro",
+    "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYujZbyh4_SknyY77m81bEOMtH6TtlAzyT42r9uIZERBhwtbgahT655BwbXp0TnH-YH8nNrChsAhAxseV8qpszeH2HfDbRCVGeK5zbJh3nOB5tFvf5adWVzk4vsX8tdzW_KPxw_BVK28-m9qY82ilvI2SN7n9Id7Yh_mdfJFxJUlTIchZflfZxtw/w275-h320/Undip%20Logo.png",
+    "deskripsi": "Universitas Diponegoro (UNDIP), di Semarang, adalah universitas negeri favorit yang berspesialisasi pada teknik, hukum, kesehatan masyarakat, dan administrasi publik. UNDIP juga dikenal sebagai pionir pendidikan ramah lingkungan.",
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "judul": "Universitas Brawijaya",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Logo_Universitas_Brawijaya.svg/2036px-Logo_Universitas_Brawijaya.svg.png",
+    "deskripsi": "Universitas Brawijaya (UB) di Malang adalah salah satu universitas negeri terbesar dan paling diminati. UB unggul di bidang pertanian, ekonomi, teknik, serta memiliki kampus hijau dan suasana akademik yang aktif.",
+    "rating": 4.5
+  },
+  {
+    "id": 9,
+    "judul": "Universitas Hasanuddin",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo-Resmi-Unhas-1.png",
+    "deskripsi": "Universitas Hasanuddin (UNHAS) adalah universitas negeri terbesar di kawasan Timur Indonesia, berlokasi di Makassar. UNHAS unggul dalam bidang kelautan, pertanian, kesehatan, dan memiliki komitmen kuat terhadap pengembangan daerah.",
+    "rating": 4.5
+  },
+  {
+    "id": 10,
+    "judul": "Universitas Sebelas Maret",
+    "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfrQOZ0b-ynwwb5q30jpKCzDJQ52yhSrTv7Zx1zpt4QDeimlLVQsb3Cg_KzG-f-01pbd78GSCuYuIXPSOqEM5ppnDE-4yJ7Li2choozy8UtMHDJy_SVeo-har_bTAJM8AGiNDkb0vFN6prvRMKICsxuKO5jg4eRZHIw_8fG_lySOwP9yHMwNFhFw/w320-h320/UNS%20(Universitas%20Sebelas%20Maret)%20Logo.png",
+    "deskripsi": "Universitas Sebelas Maret (UNS) di Surakarta adalah universitas modern yang mengedepankan konservasi budaya, pendidikan, dan penelitian. UNS berfokus pada pembangunan berkelanjutan dan kolaborasi akademik global.",
+    "rating": 4.4
+  },
+  {
+    "id": 11,
+    "judul": "Universitas Negeri Yogyakarta",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/8/80/Logo-UNY-Corel-terbaru.png",
+    "deskripsi": "Universitas Negeri Yogyakarta (UNY), awalnya lembaga pendidikan guru, kini menjadi pusat unggulan dalam bidang pendidikan, pelatihan tenaga pendidik, dan ilmu pendidikan secara umum.",
+    "rating": 4.4
+  },
+  {
+    "id": 12,
+    "judul": "Universitas Andalas",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Unand.svg/2048px-Logo_Unand.svg.png",
+    "deskripsi": "Universitas Andalas (UNAND) di Padang, Sumatera Barat, dikenal karena fokus pada pembangunan berkelanjutan, riset pertanian, lingkungan, dan budaya Minangkabau.",
+    "rating": 4.4
+  },
+  {
+    "id": 13,
+    "judul": "Universitas Sriwijaya",
+    "foto": "https://upload.wikimedia.org/wikipedia/id/thumb/b/bc/Logo_Universitas_Sriwijaya.svg/933px-Logo_Universitas_Sriwijaya.svg.png",
+    "deskripsi": "Universitas Sriwijaya (UNSRI) di Palembang dikenal kuat di bidang teknik, pertanian, energi, dan usaha mikro. Kampusnya juga menonjol lewat penelitiannya dalam pengembangan sumber daya lokal.",
+    "rating": 4.3
+  },
+  {
+    "id": 14,
+    "judul": "Universitas Syiah Kuala",
+    "foto": "https://upload.wikimedia.org/wikipedia/en/archive/c/c3/20181215082857%21Unsyiah-logo.svg",
+    "deskripsi": "Universitas Syiah Kuala (USK) di Banda Aceh adalah kampus utama di Aceh yang unggul dalam riset kebencanaan, rekayasa, dan pengembangan regional.",
+    "rating": 4.3
+  },
+  {
+    "id": 15,
+    "judul": "Universitas Pendidikan Indonesia",
+    "foto": "https://upload.wikimedia.org/wikipedia/id/thumb/0/09/Logo_Almamater_UPI.svg/960px-Logo_Almamater_UPI.svg.png",
+    "deskripsi": "Universitas Pendidikan Indonesia (UPI) di Bandung adalah lembaga pendidikan tinggi yang berbasis pendidikan guru dan terkenal akan reputasi nasional dalam bidang ilmu pendidikan.",
+    "rating": 4.3
+  },
+  {
+    "id": 16,
+    "judul": "Universitas Negeri Malang",
+    "foto": "https://upload.wikimedia.org/wikipedia/id/thumb/7/73/Lambang_Universitas_Negeri_Malang.jpg/2048px-Lambang_Universitas_Negeri_Malang.jpg",
+    "deskripsi": "Universitas Negeri Malang (UM) menawarkan perpaduan kuat antara pendidikan guru dan disiplin ilmu lainnya, serta dikenal aktif dalam penelitian dan pengabdian masyarakat.",
+    "rating": 4.2
+  },
+  {
+    "id": 17,
+    "judul": "Universitas Udayana",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Logo-unud-baru.png",
+    "deskripsi": "Universitas Udayana (UNUD) di Bali merupakan universitas unggul terutama di bidang pariwisata, kesehatan, dan lingkungan, serta proaktif dalam riset berbasis komunitas.",
+    "rating": 4.2
+  },
+  {
+    "id": 18,
+    "judul": "Universitas Negeri Semarang",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_of_Universitas_Negeri_Semarang.jpg",
+    "deskripsi": "Universitas Negeri Semarang (UNNES) fokus pada konservasi budaya dan pelestarian alam, serta memiliki reputasi kuat dalam bidang pendidikan dan ilmu sosial.",
+    "rating": 4.2
+  },
+  {
+    "id": 19,
+    "judul": "Universitas Islam Indonesia",
+    "foto": "https://kadowisudaku.com/wp-content/uploads/2018/01/Logo-UII-Biru-819x1024.png",
+    "deskripsi": "Universitas Islam Indonesia (UII) adalah universitas swasta tertua di Indonesia dengan reputasi global, dikenal di bidang ekonomi syariah, hukum, dan teknologi.",
+    "rating": 4.2
+  },
+  {
+    "id": 20,
+    "judul": "Telkom University",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/0/03/Logo_Telkom_University_potrait.png",
+    "deskripsi": "Telkom University di Bandung adalah universitas berbasis teknologi komunikasi dan informatika, berkolaborasi erat dengan industri serta dikenal karena inovasi digital.",
+    "rating": 4.2
+  }
+]
